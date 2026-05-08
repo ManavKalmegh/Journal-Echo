@@ -256,7 +256,7 @@ This creates long-term emotional continuity.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/journal-echo.git
+git clone https://github.com/ManavKalmegh/journal-echo.git
 cd journal-echo
 ```
 
